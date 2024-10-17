@@ -3,7 +3,7 @@ I am Juan, a software developer, with professional experience in backend and fro
 
 **interests**
 
-coding, fitness, tennis, the occasional surfing, traveling, food, music ( rock, punk, post-punk, instrumental, regional mexican, cumbia, but i am open to anything )
+coding, fitness, tennis, the occasional surfing, traveling, food, music ( rock, punk, post-punk, instrumental, regional mexican, cumbia, folk, but i am open to anything )
 
 **technical interests**
 
